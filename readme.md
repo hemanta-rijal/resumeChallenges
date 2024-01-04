@@ -2,9 +2,11 @@ Hello everyone,
 Just completed the Resume Challenge Project by Codebasics,
 
 🌟 PROBLEM 🌟
+
 Mitron Bank is a legacy financial institution headquartered in Hyderabad. They want to introduce a new line of credit cards, aiming to broaden its product offerings and reach in the financial market.
 
 🌟 TASK 🌟
+
 Crafting a data-driven dashboard for Mitron Bank's top-level management and product strategy team, the design ensures self-explanatory metrics and analysis. In presenting insights to Mr. Bashnir Rover and the team, employ a creative and concise approach, utilizing the intuitive dashboard to effectively communicate key strategic information.
 
 🌟 TECHNOLOGIES🌟
@@ -19,6 +21,7 @@ Crafting a data-driven dashboard for Mitron Bank's top-level management and prod
 -   Insights Idea
 
 🌟 KEY FINDING🌟
+
 - IT employees have the highest shares of income utilization. 
 - Majority of spending falls within the range of Rs. 0-500. 
 - Income Utilization % is increasing in the summer season. 
