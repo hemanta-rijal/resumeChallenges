@@ -33,7 +33,10 @@ Crafting a data-driven dashboard for Mitron Bank's top-level management and prod
 
 🌟 CREDIT CARD RECOMMANDATION🌟
 - There is a significant gap in the age group of 25-34 and 35-45 in terms of using credit cards while there is minimal difference in terms of total spending, so the age group of 35-45 would be the potential target audience.
-- Grocessories is in the 2nd most spent category while the majority of transactions are held through UPI and it is in 4th place in terms of credit card use. Campaigns should be focused on processors to improve credit card performance. 
+- Grocessories is in the 2nd most spent category while the majority of transactions are held through UPI and it is in 4th place in terms of credit card use. Campaigns should be focused on processors to improve credit card performance.
+
+![image](https://github.com/hemanta-rijal/resumeChallenges/assets/22994757/27d5d3a9-75af-478c-9338-4ac72dc1c816)
+
 
 I'd like to thank Mr. Hemanand Vadivel and Mr. Dhaval Patel for providing the wonderful opportunities to be part of this Challenge. 
 
